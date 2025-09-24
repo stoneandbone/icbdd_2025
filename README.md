@@ -1,10 +1,6 @@
 # ICBDD 2025
 
-## Movies
-
-MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" src="https://github.com/user-attachments/assets/bf97a02f-0ac9-4c34-bbc7-e9e8e9069e2b"></video>
-
-# 2) Resources, Citations, other Supporting Information
+# 1) Resources, Citations, other Supporting Information
 
 ## Predict Drug-Resistant Mutations
 
@@ -32,7 +28,11 @@ MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" 
 ## Counter Drug Resistance through Allostery
 
 - Leyte-Vidal, A., DeFilippis, R., Outhwaite, I.R. et al. Absence of ABL1 exon 2-encoded SH3 residues in BCR::ABL1 destabilizes the autoinhibited kinase conformation and confers resistance to asciminib. Leukemia 38, 2046–2050 (2024). https://doi.org/10.1038/s41375-024-02353-0
-  
+
+### Movies
+
+MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" src="https://github.com/user-attachments/assets/bf97a02f-0ac9-4c34-bbc7-e9e8e9069e2b"></video>
+
 ### AlphaFold
 
 
@@ -61,4 +61,14 @@ MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" 
 
 ### Pharmmaker
 
--  Lee JY, Li H, Krieger JM, Bahar I Pharmmaker: Pharmacophore modeling and hit identification based on druggability simulations 2019 Protein Science 29(1):76-86 
+-  Lee JY, Li H, Krieger JM, Bahar I Pharmmaker: Pharmacophore modeling and hit identification based on druggability simulations 2019 Protein Science 29(1):76-86
+
+# 2) Funding Support 
+
+- Medical Scientist Training Program (T32-GM158461)
+- Chemical Biology Training Program (T32-GM136572)
+
+# 3) Acknowledgement 
+
+- [Seeliger Group at Stony Brook University](https://you.stonybrook.edu/mseeligerlab/)
+- [Shah Group at UCSF](https://cancer.ucsf.edu/people/shah.neil-pravin)
