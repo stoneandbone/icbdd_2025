@@ -38,7 +38,7 @@ MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" 
 
 #### AlphaFold
 
-
+- Jumper, J., Evans, R., Pritzel, A. et al. Highly accurate protein structure prediction with AlphaFold. Nature 596, 583–589 (2021). https://doi.org/10.1038/s41586-021-03819-2
 
 #### ProDy
 
@@ -48,9 +48,7 @@ MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" 
 
 #### Elastic Network Model 
 
-- Dynamics of proteins predicted by molecular dynamics simulations and analytical approaches: application to alpha-amylase inhibitor. Doruker, P, Atilgan, AR & Bahar, I. Proteins 40, 512-524, (2000).
 - Anisotropy of fluctuation dynamics of proteins with an elastic network model. Atilgan, AR, Durrell, SR, Jernigan, RL, Demirel, MC, Keskin, O. & Bahar, I. Biophys. J. 80, 505-515, (2001).
-- Computational prediction of allosteric structural changes by a simple mechanical model: application to hemoglobin T to R transition. Chunyan, X, Tobi, D & Bahar, I. J. Mol. Biol. 333, 153-168 (2003).
 - Eyal E,Lum G, Bahar I (2015) The anisotropic Network Model web server at 2015 (ANM 2.0), Bioinformatics 31:1487-9
 - [Interactive ANM Server](http://anm.bahargroup.org/)
 
