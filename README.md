@@ -14,11 +14,13 @@
 
 #### Direct Coupling Analysis
 
-[GitHub Code](https://github.com/debbiemarkslab/plmc) 
-
+- [Potts Model Visualized](https://tianyu-lu.github.io/communication/protein/ml/2021/04/09/Potts-Model-Visualized.html)
+- [GitHub Code](https://github.com/debbiemarkslab/plmc) 
 - Balakrishnan, S., Kamisetty, H., Carbonell, J. G., Lee, S. I., & Langmead, C. J. (2011). Learning generative models for protein fold families. Proteins: Structure, Function, and Bioinformatics, 79(4), 1061-1078.
 - Ekeberg, M., Lövkvist, C., Lan, Y., Weigt, M., & Aurell, E. (2013). Improved contact prediction in proteins: using pseudolikelihoods to infer Potts models. Physical Review E, 87(1), 012707.
 - Hopf, T. A., Ingraham, J. B., Poelwijk, F. J., Schärfe, C. P., Springer, M., Sander, C., & Marks, D. S. (2017). Mutation effects predicted from sequence co-variation. Nature Biotechnology, 35(2), 128-135.
+- Liu, D.C., Nocedal, J. On the limited memory BFGS method for large scale optimization. Mathematical Programming 45, 503–528 (1989). https://doi.org/10.1007/BF01589116
+- Buchfink, B., Reuter, K. & Drost, HG. Sensitive protein alignments at tree-of-life scale using DIAMOND. Nat Methods 18, 366–368 (2021). https://doi.org/10.1038/s41592-021-01101-x
 
 #### Drug-Resistant Mutations
 
