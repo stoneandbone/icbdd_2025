@@ -35,7 +35,7 @@
 
 MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" src="https://github.com/user-attachments/assets/bf97a02f-0ac9-4c34-bbc7-e9e8e9069e2b"></video>
 
-MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" src=></video>
+MD tracjectory reveals SH3 domain disscoation : <video width="100" height="100" src="https://github.com/user-attachments/assets/dbe80fb7-bcaa-4074-81cc-b8f422de490c"></video>
 
 
 #### AlphaFold
